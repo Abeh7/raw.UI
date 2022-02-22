@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/frag1"/>
+    <item android:title="Ticket"
+        android:id="@+id/frag2"
+        android:icon="@drawable/ic_ticket"
+        />
+    <item android:title="Referral"
+        android:icon="@drawable/ic_referral"
+        android:id="@+id/frag3"/>
+    <item android:title="Settings "
+        android:icon="@drawable/ic_setting"
+        android:id="@+id/frag4"
+        />
+</menu>
